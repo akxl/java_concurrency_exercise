@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca2459b3-76f5-4065-88b0-58824c926b7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExtendingThreadClass/TestThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExtendingThreadClass/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadOperations/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadOperations/TestThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,41 +18,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ExtendingThreadClass/ThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ExtendingThreadClass/TestThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="465">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
+        <entry file="file://$PROJECT_DIR$/src/ExtendingThreadClass/TestThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="462" column="11" selection-start-line="462" selection-start-column="11" selection-end-line="462" selection-end-column="11" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThreadOperations/RunnableDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
               <folding>
-                <element signature="e#15704#15705#0" expanded="true" />
-                <element signature="e#15770#15771#0" expanded="true" />
-                <element signature="e#19132#19133#0" expanded="true" />
-                <element signature="e#19175#19176#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+                <element signature="e#1165#1166#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Runnable.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ThreadOperations/TestThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            <state relative-caret-position="465">
+              <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -76,8 +74,10 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/UsingRunnableInterface/RunnableDemo.java" />
         <option value="$PROJECT_DIR$/src/UsingRunnableInterface/TestThread.java" />
-        <option value="$PROJECT_DIR$/src/ExtendingThreadClass/ThreadDemo.java" />
         <option value="$PROJECT_DIR$/src/ExtendingThreadClass/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/ExtendingThreadClass/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/ThreadOperations/RunnableDemo.java" />
+        <option value="$PROJECT_DIR$/src/ThreadOperations/TestThread.java" />
       </list>
     </option>
   </component>
@@ -110,43 +110,13 @@
               <item name="java_concurrency" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_concurrency" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtendingThreadClass" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadOperations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_concurrency" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_concurrency" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="UsingRunnableInterface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_concurrency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="java_concurrency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="java_concurrency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_concurrency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_concurrency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,7 +125,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546787006995" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546788090905" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -170,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestThread (1)">
+  <component name="RunManager" selected="Application.TestThread (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -184,6 +154,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExtendingThreadClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThread (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadOperations.TestThread" />
+      <module name="java_concurrency" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreadOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,6 +220,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestThread (2)" />
         <item itemvalue="Application.TestThread (1)" />
         <item itemvalue="Application.TestThread" />
       </list>
@@ -259,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546786509804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="extending the Thread class">
+      <created>1546787028918</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546787028918</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -274,12 +266,12 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -296,7 +288,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implementing the Runnable interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementing the Runnable interface" />
+    <MESSAGE value="extending the Thread class" />
+    <option name="LAST_COMMIT_MESSAGE" value="extending the Thread class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -356,15 +349,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ExtendingThreadClass/ThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="465">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ExtendingThreadClass/TestThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadOperations/RunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1165#1166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadOperations/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
         </state>
       </provider>
     </entry>
